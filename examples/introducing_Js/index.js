@@ -1,4 +1,4 @@
 /**
  * Created by lucasono on 11/03/17.
  */
-console.log(typeof document);
+document.getElementById('example').innerHTML = "Javascript Rulz!";
